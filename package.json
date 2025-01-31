@@ -1,0 +1,17 @@
+{
+  "name": "alphabot",
+  "version": "1.0.0",
+  "description": "AI-Powered Crypto Signal Bot for Solana ecosystem",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["crypto", "trading", "bot", "AI", "signals", "solana", "alpha"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
