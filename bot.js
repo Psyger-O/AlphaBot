@@ -186,12 +186,12 @@ async function scanTokens() {
 • Monitor your positions
 
 🤖 *Join AlphaBot Community:*
-• [VIP Signals](${SOCIAL_LINKS.telegram})
+• [Community TG](${SOCIAL_LINKS.telegram})
 • [Twitter Updates](${SOCIAL_LINKS.twitter})
 • [Official Website](${SOCIAL_LINKS.website})
 
 🚀 *Support the Project:*
-Buy $ALPHABOT token to access premium features and benefit from our upcoming AI trading bot!
+Buy $ALPHABOT token this is just the begining !
 
 📈 *Together we grow, together we profit!* 📈
 
@@ -249,7 +249,7 @@ bot.onText(/\/start/, (msg) => {
 ✅ Transparent Development
 
 🌟 *Join Our Growing Community:*
-• [VIP Telegram](${SOCIAL_LINKS.telegram})
+• [Telegram](${SOCIAL_LINKS.telegram})
 • [Twitter Updates](${SOCIAL_LINKS.twitter})
 • [Official Website](${SOCIAL_LINKS.website})
 
@@ -319,7 +319,7 @@ Building the most advanced AI-powered trading ecosystem in crypto
 • Q4: Full Automation Suite
 
 🌐 *Join the Revolution:*
-• [VIP Community](${SOCIAL_LINKS.telegram})
+• [Community](${SOCIAL_LINKS.telegram})
 • [Latest Updates](${SOCIAL_LINKS.twitter})
 • [Official Website](${SOCIAL_LINKS.website})
 
